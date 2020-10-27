@@ -1,0 +1,42 @@
+table{
+    margin: 50px auto;  
+}
+tr:nth-child(even){
+    background-color: lightgrey;
+} 
+
+td{
+   text-align: left;
+    padding: 15px;
+} 
+ th{
+    background-color: lightgray;
+     width: 200px;
+      text-align: left;
+     padding: 5px;
+}
+.image
+{
+     width: 45px;
+            height: 45px;
+            border-radius: 50%;
+            margin-left: 10px;
+            float: 'left';
+}
+
+.button
+{
+     background-color: #ff6900;
+            color: white;
+            padding: 5px;
+            border-radius: 5px;
+}
+.button1
+{
+    background-color: #d32f2f;
+            color: white;
+            padding: 5px;
+            margin-left: 5px;
+            border-radius: 5px;
+}
+
